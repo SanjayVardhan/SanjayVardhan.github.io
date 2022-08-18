@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on spektre</title>
     <link>https://SanjayVardhan.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on spektre</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://SanjayVardhan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Aug 2022 15:51:26 +0530</lastBuildDate><atom:link href="https://SanjayVardhan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>untagged</title>
+      <link>https://SanjayVardhan.github.io/tags/untagged/</link>
+      <pubDate>Thu, 18 Aug 2022 15:51:26 +0530</pubDate>
+      
+      <guid>https://SanjayVardhan.github.io/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
